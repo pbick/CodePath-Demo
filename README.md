@@ -10,8 +10,6 @@ This is my first IOS app. It initially displays a custom text to the user with a
 
 <img src="App_Walkthrough.gif" width=200><br>
 
-***Note: I followed the instructions in the video to dismiss the keyboard once the "Change text string" button is tapped, but this caused the keyboard to not appear at all in the first place (as noted in the gif). I tried to find the issue in my code but could not find it.
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
